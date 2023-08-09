@@ -1,1 +1,1 @@
-# Creating-connection-between-MYSQL-and-PYTHON
+Connecting to MYSQL in PYTHON
